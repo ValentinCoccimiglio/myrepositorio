@@ -23,19 +23,3 @@ function seleccionar(link){
 
 }
 
-//barritas del amor//
-window.onscroll = function(){
-    efectoHabilidades()
-};
-//animacion barrita del amor//
-function efectoSkill(){
-    var skill = document.getElementById("skill")
-    var distancia_skill = window.innerHeight - skill.getBoundingClientRect().top;
-    if(distancia_skills >=300){
-        document.getElementById("html").classList.add("barra-progreso1");
-        document.getElementById("js").classList.add("barra-progreso2");
-        document.getElementById("bst").classList.add("barra-progreso3");
-        document.getElementById("gt").classList.add("barra-progreso4");
-        document.getElementById("rts").classList.add("barra-progreso5");
-    }
-}
