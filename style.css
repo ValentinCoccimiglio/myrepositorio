@@ -261,7 +261,7 @@
   /*SKILLS*/
 
   .contenedor-skills{
-    background: linear-gradient(#00ccff, rgba(33,16,16, .8)),url(img/fondo2.jpg);
+    background: linear-gradient(#7e898b, rgba(33,16,16, .8)),url(img/fondo2.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -292,31 +292,31 @@
   }
   /*supongo q usare javascript aca xd*/
   .contenedor-skills .skill .barra .barra-progreso1{
-    background-color: #000000;
+    background-color: #00ccff;
     width: 95%;
     height: 6px;
     animation: progreso1 2s forwards;
   }
   .contenedor-skills .skill .barra .barra-progreso2{
-    background-color: #000000;
+    background-color: #00ccff;
     width: 95%;
     height: 6px;
     animation: progreso2 2s forwards;
   }
   .contenedor-skills .skill .barra .barra-progreso3{
-    background-color: #000000;
+    background-color: #00ccff;
     width: 90%;
     height: 6px;
     animation: progreso3 2s forwards;
   }
   .contenedor-skills .skill .barra .barra-progreso4{
-    background-color: #000000;
+    background-color: #00ccff;
     width: 75%;
     height: 6px;
     animation: progreso4 2s forwards;
   }
   .contenedor-skills .skill .barra .barra-progreso5{
-    background-color: #000000;
+    background-color: #00ccff;
     width: 50%;
     height: 6px;
     animation: progreso5 2s forwards;
